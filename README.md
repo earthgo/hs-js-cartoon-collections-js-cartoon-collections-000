@@ -1,5 +1,9 @@
 ## Objectives
 
+
+
+
+
 You're going to get familiar with iterating through arrays in Javascript. 
 
 ## Instructions
